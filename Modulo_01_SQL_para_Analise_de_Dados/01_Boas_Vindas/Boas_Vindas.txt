@@ -1,0 +1,7 @@
+Olá,
+Você está prestes a iniciar uma nova jornada através dessa trilha que foi desenvolvida de maneira focada no assunto SQL
+para Analise de Dados.
+Caso você já tenha iniciado os seus estudos na versão antiga de trilha que também tratava do assunto SQL , você tem até
+o dia 28/06 para concluir a trilha antiga, pois após esse período ela será completamente descontinuada.
+
+Escolha seu caminho, e sucesso na sua jornada de estudos!
