@@ -1,0 +1,11 @@
+spurious correlations
+https://www.tylervigen.com/spurious-correlations
+
+Correlação e Causalidade
+https://bookdown.org/cienciadedadosnaep/ebook_ciencia_de_dados/_book/cap4.html
+
+Informação mútua
+https://pt.wikipedia.org/wiki/Informa%C3%A7%C3%A3o_m%C3%BAtua
+
+Entropia da informação
+https://pt.wikipedia.org/wiki/Entropia_da_informa%C3%A7%C3%A3o
