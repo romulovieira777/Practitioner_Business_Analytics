@@ -14,3 +14,9 @@ https://aws.amazon.com/pt/sagemaker/?trk=212dd882-f278-4b5c-90af-1c0e6c1064d2&sc
 Amazon Glue
 https://aws.amazon.com/pt/glue/?trk=212dd882-f278-4b5c-90af-1c0e6c1064d2&sc_channel=ps&trk=212dd882-f278-4b5c-90af-1c0e6c1064d2&sc_channel=ps&ef_id=Cj0KCQiAgbnKBhDgARIsAGCDdlcmPPhPIsXEvsb3S6nBukT7hhlHe-XujlyLedWkwHpsK9Bcn_c3BvIaAqMlEALw_wcB:G:s&s_kwcid=AL!4422!3!780600711249!e!!g!!amazon%20web%20services&gad_campaignid=23178730709&gbraid=0AAAAADjHtp8kS7WNv7SojSi5rUqH_8ZnO&gclid=Cj0KCQiAgbnKBhDgARIsAGCDdlcmPPhPIsXEvsb3S6nBukT7hhlHe-XujlyLedWkwHpsK9Bcn_c3BvIaAqMlEALw_wcB
 
+Amazon Athena
+https://aws.amazon.com/pt/athena/?trk=212dd882-f278-4b5c-90af-1c0e6c1064d2&sc_channel=ps&trk=212dd882-f278-4b5c-90af-1c0e6c1064d2&sc_channel=ps&ef_id=Cj0KCQiAgbnKBhDgARIsAGCDdlcmPPhPIsXEvsb3S6nBukT7hhlHe-XujlyLedWkwHpsK9Bcn_c3BvIaAqMlEALw_wcB:G:s&s_kwcid=AL!4422!3!780600711249!e!!g!!amazon%20web%20services&gad_campaignid=23178730709&gbraid=0AAAAADjHtp8kS7WNv7SojSi5rUqH_8ZnO&gclid=Cj0KCQiAgbnKBhDgARIsAGCDdlcmPPhPIsXEvsb3S6nBukT7hhlHe-XujlyLedWkwHpsK9Bcn_c3BvIaAqMlEALw_wcB
+
+Amazon Quicksight
+https://aws.amazon.com/pt/quicksight/?trk=212dd882-f278-4b5c-90af-1c0e6c1064d2&sc_channel=ps&trk=212dd882-f278-4b5c-90af-1c0e6c1064d2&sc_channel=ps&ef_id=Cj0KCQiAgbnKBhDgARIsAGCDdlcmPPhPIsXEvsb3S6nBukT7hhlHe-XujlyLedWkwHpsK9Bcn_c3BvIaAqMlEALw_wcB:G:s&s_kwcid=AL!4422!3!780600711249!e!!g!!amazon%20web%20services&gad_campaignid=23178730709&gbraid=0AAAAADjHtp8kS7WNv7SojSi5rUqH_8ZnO&gclid=Cj0KCQiAgbnKBhDgARIsAGCDdlcmPPhPIsXEvsb3S6nBukT7hhlHe-XujlyLedWkwHpsK9Bcn_c3BvIaAqMlEALw_wcB
+
